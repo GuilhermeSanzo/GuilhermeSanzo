@@ -33,5 +33,5 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="mariadb" style="vertical-align:top;">
 </p>
 
-[![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSanzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/GuilhermeSanzo)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSanzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSanzo&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
