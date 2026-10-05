@@ -28,7 +28,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🥗 <a href="https://github.com/GuilhermeSanzo/frozenfitness">Frozen Fitness</a></h3>
+      <h3>🥗 <a href="https://github.com/GuilhermeSanzo/FrozenFitness">Frozen Fitness</a></h3>
       <p><b>E-commerce Moderno & Migração Arquitetural</b></p>
       <p>Reestruturação completa de um e-commerce legado para o ecossistema <b>Laravel 11</b>. Implementa motor de carrinho com persistência em sessão, checkout automatizado transacional, painel administrativo modular (CRUDs), autenticação segura com Laravel Breeze e estilização com <b>Tailwind CSS v4</b>.</p>
       <p>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/GuilhermeSanzo/woodywoodpecker">Woody Woodpecker</a></h3>
+      <h3>📚 <a href="https://github.com/GuilhermeSanzo/WoodyWoodpecker">Woody Woodpecker</a></h3>
       <p><b>Plataforma Administrativa de Catálogo Literário</b></p>
       <p>Modernização de sistema de livraria utilizando <b>PHP 8.3</b> e <b>Laravel 11</b>. Destaca-se pelo uso de <b>Eloquent ORM avançado com Eager Loading</b> (eliminando o problema de N+1 queries), relacionamentos complexos, segurança nativa contra CSRF/SQL Injection e Dark Mode responsivo.</p>
       <p>
